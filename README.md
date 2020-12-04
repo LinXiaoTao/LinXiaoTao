@@ -6,13 +6,6 @@
 
 - 🔭 I’m currently working on *HangZhou*
 
-- 🌱 I’m currently learning *Mobile performance optimization*
-
-- 💬 Ask me about *Android,Flutter,Python*
+- 🌱 I’m currently learning *Android Flutter*
 
 - 📫 How to reach me: *linxiaotao1993@vip.qq.com*
-
-- 😄 Pronouns: *Leo*
-
-- ⚡ Fun fact: *I like running*
-
